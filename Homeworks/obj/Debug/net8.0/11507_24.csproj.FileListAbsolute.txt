@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\11507_24\11507_24\bin\Debug\net8.0\11507_24.exe
+C:\Users\Admin\Desktop\11507_24\11507_24\bin\Debug\net8.0\11507_24.deps.json
+C:\Users\Admin\Desktop\11507_24\11507_24\bin\Debug\net8.0\11507_24.runtimeconfig.json
+C:\Users\Admin\Desktop\11507_24\11507_24\bin\Debug\net8.0\11507_24.dll
+C:\Users\Admin\Desktop\11507_24\11507_24\bin\Debug\net8.0\11507_24.pdb
+C:\Users\Admin\Desktop\11507_24\11507_24\obj\Debug\net8.0\11507_24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\11507_24\11507_24\obj\Debug\net8.0\11507_24.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\11507_24\11507_24\obj\Debug\net8.0\11507_24.AssemblyInfo.cs
+C:\Users\Admin\Desktop\11507_24\11507_24\obj\Debug\net8.0\11507_24.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\11507_24\11507_24\obj\Debug\net8.0\11507_24.dll
+C:\Users\Admin\Desktop\11507_24\11507_24\obj\Debug\net8.0\refint\11507_24.dll
+C:\Users\Admin\Desktop\11507_24\11507_24\obj\Debug\net8.0\11507_24.pdb
+C:\Users\Admin\Desktop\11507_24\11507_24\obj\Debug\net8.0\11507_24.genruntimeconfig.cache
+C:\Users\Admin\Desktop\11507_24\11507_24\obj\Debug\net8.0\ref\11507_24.dll
