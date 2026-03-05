@@ -1,8 +1,8 @@
 ﻿namespace Homework;
 
-class Program
+class Process1
 {
-    static void Main(string[] args)
+    public static void Run2()
     {
         var order1 = new OrderBuilder<decimal>()
             .SetId(1)

@@ -1,0 +1,126 @@
+﻿Abaddon;Universal;Complexity:1;Dmg:49-59;Armor:2.6;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:680;HPReg:0.25;Mana:275;ManaReg:0.9;MoveSpd:325
+Alchemist;Strength;Complexity:2;Dmg:52-58;Armor:1.4;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:660;HPReg:0.25;Mana:251;ManaReg:0.75;MoveSpd:295
+Ancient Apparition;Intelligence;Complexity:2;Dmg:46-56;Armor:-1.4;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:675;Cleave:0;HP:540;HPReg:0.25;Mana:303;ManaReg:1.05;MoveSpd:295
+Anti-Mage;Agility;Complexity:1;Dmg:51-55;Armor:1.8;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:600;HPReg:0.25;Mana:267;ManaReg:0.9;MoveSpd:310
+Arc Warden;Agility;Complexity:3;Dmg:48-58;Armor:0.8;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:625;Cleave:0;HP:620;HPReg:0.25;Mana:288;ManaReg:0.9;MoveSpd:285
+Axe;Strength;Complexity:1;Dmg:55-59;Armor:2.0;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:90;Range:150;Cleave:0;HP:720;HPReg:0.25;Mana:259;ManaReg:0.8;MoveSpd:310
+Bane;Intelligence;Complexity:2;Dmg:49-59;Armor:1.0;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:400;Cleave:0;HP:640;HPReg:0.25;Mana:300;ManaReg:1.0;MoveSpd:310
+Batrider;Intelligence;Complexity:2;Dmg:52-56;Armor:1.6;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:375;Cleave:0;HP:660;HPReg:0.25;Mana:291;ManaReg:0.95;MoveSpd:325
+Beastmaster;Strength;Complexity:2;Dmg:53-57;Armor:1.8;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:680;HPReg:0.25;Mana:283;ManaReg:0.9;MoveSpd:310
+Bloodseeker;Agility;Complexity:1;Dmg:52-58;Armor:1.7;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:620;HPReg:0.25;Mana:255;ManaReg:0.8;MoveSpd:305
+Bounty Hunter;Agility;Complexity:1;Dmg:53-59;Armor:1.9;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:610;HPReg:0.25;Mana:251;ManaReg:0.75;MoveSpd:320
+Brewmaster;Strength;Complexity:2;Dmg:54-62;Armor:2.1;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:710;HPReg:0.25;Mana:275;ManaReg:0.85;MoveSpd:310
+Bristleback;Strength;Complexity:1;Dmg:56-60;Armor:2.2;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:740;HPReg:0.25;Mana:263;ManaReg:0.85;MoveSpd:310
+Broodmother;Agility;Complexity:2;Dmg:50-56;Armor:1.6;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:590;HPReg:0.25;Mana:247;ManaReg:0.75;MoveSpd:295
+Centaur Warrunner;Strength;Complexity:1;Dmg:57-61;Armor:2.3;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:90;Range:150;Cleave:0;HP:760;HPReg:0.25;Mana:255;ManaReg:0.8;MoveSpd:305
+Chaos Knight;Strength;Complexity:1;Dmg:54-74;Armor:2.0;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:700;HPReg:0.25;Mana:259;ManaReg:0.8;MoveSpd:325
+Chen;Intelligence;Complexity:3;Dmg:48-58;Armor:1.1;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:650;Cleave:0;HP:560;HPReg:0.25;Mana:308;ManaReg:1.1;MoveSpd:310
+Clinkz;Agility;Complexity:2;Dmg:49-55;Armor:1.5;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:600;Cleave:0;HP:580;HPReg:0.25;Mana:251;ManaReg:0.75;MoveSpd:290
+Clockwerk;Strength;Complexity:2;Dmg:53-57;Armor:1.9;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:690;HPReg:0.25;Mana:259;ManaReg:0.8;MoveSpd:310
+Crystal Maiden;Intelligence;Complexity:1;Dmg:45-55;Armor:-0.9;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:600;Cleave:0;HP:520;HPReg:0.25;Mana:318;ManaReg:1.15;MoveSpd:280
+Dark Seer;Intelligence;Complexity:2;Dmg:48-56;Armor:1.2;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:570;HPReg:0.25;Mana:298;ManaReg:1.05;MoveSpd:305
+Dark Willow;Intelligence;Complexity:2;Dmg:47-55;Armor:0.9;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:475;Cleave:0;HP:550;HPReg:0.25;Mana:306;ManaReg:1.05;MoveSpd:295
+Dawnbreaker;Strength;Complexity:1;Dmg:55-61;Armor:2.1;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:730;HPReg:0.25;Mana:263;ManaReg:0.85;MoveSpd:310
+Dazzle;Intelligence;Complexity:2;Dmg:50-58;Armor:1.3;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:550;Cleave:0;HP:630;HPReg:0.25;Mana:293;ManaReg:0.95;MoveSpd:305
+Death Prophet;Intelligence;Complexity:1;Dmg:51-59;Armor:1.4;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:600;Cleave:0;HP:640;HPReg:0.25;Mana:296;ManaReg:1.0;MoveSpd:310
+Disruptor;Intelligence;Complexity:2;Dmg:46-54;Armor:0.8;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:600;Cleave:0;HP:540;HPReg:0.25;Mana:310;ManaReg:1.1;MoveSpd:295
+Doom;Strength;Complexity:2;Dmg:56-62;Armor:2.2;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:750;HPReg:0.25;Mana:266;ManaReg:0.85;MoveSpd:295
+Dragon Knight;Strength;Complexity:1;Dmg:54-60;Armor:2.8;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:720;HPReg:0.25;Mana:261;ManaReg:0.8;MoveSpd:310
+Drow Ranger;Agility;Complexity:1;Dmg:52-58;Armor:1.8;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:625;Cleave:0;HP:610;HPReg:0.25;Mana:256;ManaReg:0.8;MoveSpd:295
+Earth Spirit;Strength;Complexity:3;Dmg:53-59;Armor:2.0;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:700;HPReg:0.25;Mana:265;ManaReg:0.8;MoveSpd:310
+Earthshaker;Strength;Complexity:2;Dmg:55-61;Armor:2.1;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:710;HPReg:0.25;Mana:267;ManaReg:0.85;MoveSpd:310
+Elder Titan;Strength;Complexity:2;Dmg:56-62;Armor:2.2;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:730;HPReg:0.25;Mana:270;ManaReg:0.85;MoveSpd:310
+Ember Spirit;Agility;Complexity:2;Dmg:51-57;Armor:1.7;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:600;HPReg:0.25;Mana:258;ManaReg:0.8;MoveSpd:305
+Enchantress;Intelligence;Complexity:2;Dmg:47-55;Armor:1.0;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:550;Cleave:0;HP:550;HPReg:0.25;Mana:305;ManaReg:1.05;MoveSpd:315
+Enigma;Intelligence;Complexity:2;Dmg:49-57;Armor:1.2;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:450;Cleave:0;HP:580;HPReg:0.25;Mana:295;ManaReg:0.95;MoveSpd:300
+Faceless Void;Agility;Complexity:2;Dmg:52-58;Armor:1.9;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:610;HPReg:0.25;Mana:260;ManaReg:0.8;MoveSpd:300
+Grimstroke;Intelligence;Complexity:2;Dmg:48-56;Armor:1.1;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:600;Cleave:0;HP:560;HPReg:0.25;Mana:310;ManaReg:1.05;MoveSpd:295
+Gyrocopter;Agility;Complexity:1;Dmg:50-56;Armor:1.6;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:365;Cleave:0;HP:590;HPReg:0.25;Mana:254;ManaReg:0.75;MoveSpd:315
+Hoodwink;Agility;Complexity:2;Dmg:49-55;Armor:1.4;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:575;Cleave:0;HP:570;HPReg:0.25;Mana:252;ManaReg:0.75;MoveSpd:305
+Huskar;Strength;Complexity:1;Dmg:54-60;Armor:2.0;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:400;Cleave:0;HP:690;HPReg:0.25;Mana:258;ManaReg:0.8;MoveSpd:305
+Invoker;Intelligence;Complexity:3;Dmg:47-55;Armor:1.0;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:600;Cleave:0;HP:550;HPReg:0.25;Mana:315;ManaReg:1.1;MoveSpd:285
+Io;Universal;Complexity:3;Dmg:48-56;Armor:1.1;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:590;HPReg:0.25;Mana:290;ManaReg:0.9;MoveSpd:320
+Jakiro;Intelligence;Complexity:1;Dmg:49-57;Armor:1.2;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:400;Cleave:0;HP:570;HPReg:0.25;Mana:308;ManaReg:1.05;MoveSpd:295
+Juggernaut;Agility;Complexity:1;Dmg:52-58;Armor:1.8;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:610;HPReg:0.25;Mana:257;ManaReg:0.8;MoveSpd:305
+Kez;Agility;Complexity:2;Dmg:51-57;Armor:1.7;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:600;HPReg:0.25;Mana:255;ManaReg:0.8;MoveSpd:310
+Keeper of the Light;Intelligence;Complexity:2;Dmg:48-56;Armor:1.1;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:600;Cleave:0;HP:560;HPReg:0.25;Mana:312;ManaReg:1.05;MoveSpd:305
+Kunkka;Strength;Complexity:2;Dmg:55-61;Armor:2.1;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:710;HPReg:0.25;Mana:268;ManaReg:0.85;MoveSpd:310
+Legion Commander;Strength;Complexity:1;Dmg:55-61;Armor:2.0;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:700;HPReg:0.25;Mana:260;ManaReg:0.8;MoveSpd:330
+Leshrac;Intelligence;Complexity:1;Dmg:48-56;Armor:1.1;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:550;Cleave:0;HP:560;HPReg:0.25;Mana:310;ManaReg:1.05;MoveSpd:325
+Lich;Intelligence;Complexity:1;Dmg:47-55;Armor:0.9;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:550;Cleave:0;HP:550;HPReg:0.25;Mana:315;ManaReg:1.1;MoveSpd:295
+Lifestealer;Strength;Complexity:2;Dmg:54-60;Armor:2.1;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:690;HPReg:0.25;Mana:258;ManaReg:0.8;MoveSpd:310
+Lina;Intelligence;Complexity:1;Dmg:48-56;Armor:1.0;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:670;Cleave:0;HP:560;HPReg:0.25;Mana:310;ManaReg:1.05;MoveSpd:290
+Lion;Intelligence;Complexity:1;Dmg:47-55;Armor:0.8;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:600;Cleave:0;HP:550;HPReg:0.25;Mana:315;ManaReg:1.1;MoveSpd:295
+Lone Druid;Agility;Complexity:3;Dmg:50-56;Armor:1.5;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:590;HPReg:0.25;Mana:250;ManaReg:0.75;MoveSpd:300
+Luna;Agility;Complexity:1;Dmg:51-57;Armor:1.7;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:600;HPReg:0.25;Mana:255;ManaReg:0.8;MoveSpd:310
+Lycan;Strength;Complexity:2;Dmg:55-61;Armor:2.0;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:700;HPReg:0.25;Mana:260;ManaReg:0.8;MoveSpd:305
+Magnus;Strength;Complexity:2;Dmg:54-60;Armor:1.9;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:690;HPReg:0.25;Mana:258;ManaReg:0.8;MoveSpd:310
+Marci;Strength;Complexity:2;Dmg:53-59;Armor:1.8;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:680;HPReg:0.25;Mana:256;ManaReg:0.8;MoveSpd:315
+Mars;Strength;Complexity:1;Dmg:56-62;Armor:2.2;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:720;HPReg:0.25;Mana:265;ManaReg:0.85;MoveSpd:310
+Medusa;Agility;Complexity:1;Dmg:52-58;Armor:1.8;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:600;Cleave:0;HP:610;HPReg:0.25;Mana:260;ManaReg:0.8;MoveSpd:285
+Meepo;Agility;Complexity:3;Dmg:50-56;Armor:1.6;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:590;HPReg:0.25;Mana:250;ManaReg:0.75;MoveSpd:310
+Mirana;Agility;Complexity:2;Dmg:51-57;Armor:1.7;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:630;Cleave:0;HP:600;HPReg:0.25;Mana:258;ManaReg:0.8;MoveSpd:305
+Monkey King;Agility;Complexity:2;Dmg:52-58;Armor:1.8;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:610;HPReg:0.25;Mana:260;ManaReg:0.8;MoveSpd:310
+Morphling;Agility;Complexity:3;Dmg:50-56;Armor:1.5;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:590;HPReg:0.25;Mana:255;ManaReg:0.8;MoveSpd:295
+Muerta;Intelligence;Complexity:2;Dmg:49-57;Armor:1.2;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:600;Cleave:0;HP:570;HPReg:0.25;Mana:305;ManaReg:1.0;MoveSpd:295
+Naga Siren;Agility;Complexity:2;Dmg:51-57;Armor:1.7;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:600;HPReg:0.25;Mana:258;ManaReg:0.8;MoveSpd:300
+Nature's Prophet;Intelligence;Complexity:2;Dmg:48-56;Armor:1.1;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:600;Cleave:0;HP:560;HPReg:0.25;Mana:308;ManaReg:1.05;MoveSpd:305
+Necrophos;Intelligence;Complexity:1;Dmg:48-56;Armor:1.1;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:550;Cleave:0;HP:560;HPReg:0.25;Mana:305;ManaReg:1.0;MoveSpd:295
+Night Stalker;Strength;Complexity:1;Dmg:55-61;Armor:2.0;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:700;HPReg:0.25;Mana:260;ManaReg:0.8;MoveSpd:305
+Nyx Assassin;Agility;Complexity:2;Dmg:50-56;Armor:1.6;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:590;HPReg:0.25;Mana:255;ManaReg:0.8;MoveSpd:310
+Ogre Magi;Intelligence;Complexity:1;Dmg:49-57;Armor:1.2;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:570;HPReg:0.25;Mana:310;ManaReg:1.05;MoveSpd:295
+Omniknight;Strength;Complexity:1;Dmg:54-60;Armor:2.1;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:690;HPReg:0.25;Mana:265;ManaReg:0.85;MoveSpd:310
+Oracle;Intelligence;Complexity:3;Dmg:47-55;Armor:0.9;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:620;Cleave:0;HP:550;HPReg:0.25;Mana:315;ManaReg:1.1;MoveSpd:295
+Outworld Destroyer;Intelligence;Complexity:2;Dmg:48-56;Armor:1.1;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:600;Cleave:0;HP:560;HPReg:0.25;Mana:310;ManaReg:1.05;MoveSpd:295
+Pangolier;Agility;Complexity:2;Dmg:51-57;Armor:1.7;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:600;HPReg:0.25;Mana:258;ManaReg:0.8;MoveSpd:310
+Phantom Assassin;Agility;Complexity:1;Dmg:52-58;Armor:1.8;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:610;HPReg:0.25;Mana:260;ManaReg:0.8;MoveSpd:310
+Phantom Lancer;Agility;Complexity:2;Dmg:51-57;Armor:1.7;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:600;HPReg:0.25;Mana:255;ManaReg:0.8;MoveSpd:305
+Phoenix;Strength;Complexity:2;Dmg:54-60;Armor:2.0;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:690;HPReg:0.25;Mana:260;ManaReg:0.8;MoveSpd:295
+Primal Beast;Strength;Complexity:1;Dmg:56-62;Armor:2.2;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:720;HPReg:0.25;Mana:265;ManaReg:0.85;MoveSpd:310
+Puck;Intelligence;Complexity:2;Dmg:48-56;Armor:1.1;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:600;Cleave:0;HP:560;HPReg:0.25;Mana:310;ManaReg:1.05;MoveSpd:305
+Pudge;Strength;Complexity:2;Dmg:55-61;Armor:2.0;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:700;HPReg:0.25;Mana:265;ManaReg:0.85;MoveSpd:290
+Pugna;Intelligence;Complexity:2;Dmg:48-56;Armor:1.0;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:630;Cleave:0;HP:560;HPReg:0.25;Mana:312;ManaReg:1.05;MoveSpd:305
+Queen of Pain;Intelligence;Complexity:2;Dmg:48-56;Armor:1.0;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:550;Cleave:0;HP:560;HPReg:0.25;Mana:310;ManaReg:1.05;MoveSpd:305
+Razor;Agility;Complexity:2;Dmg:51-57;Armor:1.7;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:600;HPReg:0.25;Mana:258;ManaReg:0.8;MoveSpd:295
+Riki;Agility;Complexity:1;Dmg:50-56;Armor:1.6;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:590;HPReg:0.25;Mana:250;ManaReg:0.75;MoveSpd:310
+Ringmaster;Intelligence;Complexity:2;Dmg:48-56;Armor:1.1;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:550;Cleave:0;HP:560;HPReg:0.25;Mana:308;ManaReg:1.0;MoveSpd:305
+Rubick;Intelligence;Complexity:3;Dmg:48-56;Armor:1.1;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:600;Cleave:0;HP:560;HPReg:0.25;Mana:310;ManaReg:1.05;MoveSpd:305
+Sand King;Strength;Complexity:2;Dmg:54-60;Armor:1.9;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:690;HPReg:0.25;Mana:260;ManaReg:0.8;MoveSpd:305
+Shadow Demon;Intelligence;Complexity:2;Dmg:48-56;Armor:1.1;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:500;Cleave:0;HP:560;HPReg:0.25;Mana:310;ManaReg:1.05;MoveSpd:295
+Shadow Fiend;Agility;Complexity:2;Dmg:51-57;Armor:1.7;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:600;HPReg:0.25;Mana:258;ManaReg:0.8;MoveSpd:310
+Shadow Shaman;Intelligence;Complexity:1;Dmg:48-56;Armor:1.1;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:600;Cleave:0;HP:560;HPReg:0.25;Mana:310;ManaReg:1.05;MoveSpd:295
+Silencer;Intelligence;Complexity:1;Dmg:48-56;Armor:1.1;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:600;Cleave:0;HP:560;HPReg:0.25;Mana:310;ManaReg:1.05;MoveSpd:295
+Skywrath Mage;Intelligence;Complexity:1;Dmg:47-55;Armor:0.9;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:625;Cleave:0;HP:550;HPReg:0.25;Mana:315;ManaReg:1.1;MoveSpd:305
+Slardar;Strength;Complexity:1;Dmg:55-61;Armor:2.1;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:700;HPReg:0.25;Mana:260;ManaReg:0.8;MoveSpd:310
+Slark;Agility;Complexity:2;Dmg:51-57;Armor:1.7;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:600;HPReg:0.25;Mana:258;ManaReg:0.8;MoveSpd:310
+Snapfire;Strength;Complexity:1;Dmg:54-60;Armor:2.0;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:600;Cleave:0;HP:690;HPReg:0.25;Mana:262;ManaReg:0.8;MoveSpd:305
+Sniper;Agility;Complexity:1;Dmg:50-56;Armor:1.5;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:550;Cleave:0;HP:590;HPReg:0.25;Mana:255;ManaReg:0.8;MoveSpd:295
+Spectre;Agility;Complexity:2;Dmg:51-57;Armor:1.7;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:600;HPReg:0.25;Mana:258;ManaReg:0.8;MoveSpd:295
+Spirit Breaker;Strength;Complexity:1;Dmg:55-61;Armor:2.0;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:700;HPReg:0.25;Mana:260;ManaReg:0.8;MoveSpd:315
+Storm Spirit;Intelligence;Complexity:2;Dmg:48-56;Armor:1.1;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:475;Cleave:0;HP:560;HPReg:0.25;Mana:310;ManaReg:1.05;MoveSpd:295
+Sven;Strength;Complexity:1;Dmg:56-62;Armor:2.2;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:720;HPReg:0.25;Mana:265;ManaReg:0.85;MoveSpd:310
+Techies;Intelligence;Complexity:2;Dmg:48-56;Armor:1.0;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:600;Cleave:0;HP:560;HPReg:0.25;Mana:310;ManaReg:1.05;MoveSpd:305
+Templar Assassin;Agility;Complexity:2;Dmg:51-57;Armor:1.7;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:600;HPReg:0.25;Mana:258;ManaReg:0.8;MoveSpd:310
+Terrorblade;Agility;Complexity:2;Dmg:52-58;Armor:1.8;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:610;HPReg:0.25;Mana:260;ManaReg:0.8;MoveSpd:305
+Tidehunter;Strength;Complexity:1;Dmg:55-61;Armor:2.1;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:710;HPReg:0.25;Mana:265;ManaReg:0.85;MoveSpd:310
+Timbersaw;Strength;Complexity:2;Dmg:54-60;Armor:2.0;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:690;HPReg:0.25;Mana:262;ManaReg:0.8;MoveSpd:305
+Tinker;Intelligence;Complexity:2;Dmg:48-56;Armor:1.1;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:600;Cleave:0;HP:560;HPReg:0.25;Mana:310;ManaReg:1.05;MoveSpd:305
+Tiny;Strength;Complexity:1;Dmg:56-62;Armor:2.2;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:720;HPReg:0.25;Mana:265;ManaReg:0.85;MoveSpd:310
+Treant Protector;Strength;Complexity:2;Dmg:54-60;Armor:2.0;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:690;HPReg:0.25;Mana:262;ManaReg:0.8;MoveSpd:295
+Troll Warlord;Agility;Complexity:2;Dmg:52-58;Armor:1.8;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:610;HPReg:0.25;Mana:260;ManaReg:0.8;MoveSpd:310
+Tusk;Strength;Complexity:2;Dmg:54-60;Armor:2.0;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:690;HPReg:0.25;Mana:262;ManaReg:0.8;MoveSpd:310
+Underlord;Strength;Complexity:1;Dmg:55-61;Armor:2.1;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:710;HPReg:0.25;Mana:265;ManaReg:0.85;MoveSpd:305
+Undying;Strength;Complexity:1;Dmg:54-60;Armor:2.0;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:690;HPReg:0.25;Mana:262;ManaReg:0.8;MoveSpd:305
+Ursa;Agility;Complexity:1;Dmg:52-58;Armor:1.8;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:610;HPReg:0.25;Mana:260;ManaReg:0.8;MoveSpd:310
+Vengeful Spirit;Agility;Complexity:1;Dmg:50-56;Armor:1.6;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:590;HPReg:0.25;Mana:255;ManaReg:0.8;MoveSpd:305
+Venomancer;Agility;Complexity:1;Dmg:50-56;Armor:1.5;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:450;Cleave:0;HP:590;HPReg:0.25;Mana:252;ManaReg:0.75;MoveSpd:295
+Viper;Agility;Complexity:1;Dmg:51-57;Armor:1.7;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:600;HPReg:0.25;Mana:258;ManaReg:0.8;MoveSpd:290
+Visage;Intelligence;Complexity:3;Dmg:47-55;Armor:0.9;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:600;Cleave:0;HP:550;HPReg:0.25;Mana:315;ManaReg:1.1;MoveSpd:295
+Void Spirit;Intelligence;Complexity:2;Dmg:49-57;Armor:1.2;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:570;HPReg:0.25;Mana:305;ManaReg:1.0;MoveSpd:305
+Warlock;Intelligence;Complexity:1;Dmg:48-56;Armor:1.1;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:600;Cleave:0;HP:560;HPReg:0.25;Mana:310;ManaReg:1.05;MoveSpd:295
+Weaver;Agility;Complexity:2;Dmg:50-56;Armor:1.6;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:590;HPReg:0.25;Mana:255;ManaReg:0.8;MoveSpd:305
+Windranger;Intelligence;Complexity:2;Dmg:48-56;Armor:1.1;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:600;Cleave:0;HP:560;HPReg:0.25;Mana:310;ManaReg:1.05;MoveSpd:305
+Winter Wyvern;Intelligence;Complexity:2;Dmg:48-56;Armor:1.0;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:600;Cleave:0;HP:560;HPReg:0.25;Mana:310;ManaReg:1.05;MoveSpd:295
+Witch Doctor;Intelligence;Complexity:1;Dmg:48-56;Armor:1.0;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:600;Cleave:0;HP:560;HPReg:0.25;Mana:310;ManaReg:1.05;MoveSpd:305
+Wraith King;Strength;Complexity:1;Dmg:55-61;Armor:2.1;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:150;Cleave:0;HP:710;HPReg:0.25;Mana:265;ManaReg:0.85;MoveSpd:310
+Zeus;Intelligence;Complexity:1;Dmg:48-56;Armor:1.0;MagRes:25%;Evasion:0;Accuracy:100%;Crit:0;AtkSpd:100;Range:600;Cleave:0;HP:560;HPReg:0.25;Mana:315;ManaReg:1.1;MoveSpd:300
