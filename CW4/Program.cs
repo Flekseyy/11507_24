@@ -1,3 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using CW4.Task2;
 
-Console.WriteLine("Hello, World!");
+namespace CW4;
+
+public class Program
+{
+    public static void Main()
+    {
+      
+        LinqPr.Run();
+    }
+}
