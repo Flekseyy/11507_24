@@ -11,4 +11,5 @@ using CW4.Task2;
 // SelectPr.Run();
 // SearchPr.Run();
 // BigData.Run();
-new ProcessCoffee().Run();
+// new ProcessCoffee().Run();
+BigData.Run();

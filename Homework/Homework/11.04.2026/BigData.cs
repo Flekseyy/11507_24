@@ -1,36 +1,53 @@
-﻿using System.Text;
+﻿using System.Diagnostics;
+using System.Text;
 
 namespace _11507_24.Homework._11._04._2026;
-
+using System.Security.Cryptography;
 public class BigData
 {
+    // public void CreateFile()
+    // {
+    //     long Size = 2L * 1024 * 1024* 1024;
+    //     int bufferSize = 65536;
+    //     byte[] buffer = new byte[bufferSize];
+    //     using var sw = new FileStream("BigData.txt", FileMode.Create, FileAccess.Write, FileShare.ReadWrite);
+    //     using var rng = RandomNumberGenerator.Create();
+    //     {
+    //         long remaining = Size;
+    //         while (remaining > 0)
+    //         {
+    //             int toWrite = (int)Math.Min(bufferSize, remaining);
+    //             rng.GetBytes(buffer, 0, toWrite);
+    //             sw.Write(buffer, 0, toWrite);
+    //             remaining -= toWrite;
+    //         }
+    //     }
+    // }
+
     public static void Run()
     {
-        using (var sw = new StreamWriter("BigData.txt"))
+        var stopwatch = Stopwatch.StartNew();
+        byte targetByte = 65;
+        int bufferSize = 65536;
+        long count = 0;
+        byte[] buffer = new byte[bufferSize];
+        using (var fs = new FileStream("BigData.txt", FileMode.Open, FileAccess.Read, FileShare.Read, bufferSize))
         {
-            for (long i = 0; i < 2_300_000_000; i++)
+            int bytesRead;
+            while ((bytesRead = fs.Read(buffer, 0, bufferSize)) > 0)
             {
-                sw.WriteLine(i);
-            }
-        }
-        using (FileStream fstream = File.OpenRead("BigData.txt"))
-        {
-   
-            byte[] buffer = new byte[fstream.Length];
-  
-            var readBytes =  fstream.Read(buffer, 0, buffer.Length);
-            if (readBytes > 0)
-            {
-                string textFromFile = Encoding.Default.GetString(buffer);
-                long count = 0;
-                for (int i = 0; i < textFromFile.Length; i++)
+                for (int i = 0; i < bytesRead; i++)
                 {
-                    if (textFromFile[i] == 'A')
+                    if (targetByte == buffer[i])
                     {
                         count++;
                     }
                 }
             }
+            
         }
+        stopwatch.Stop();
+        Console.WriteLine($"Количество символов А - {count}");
+        Console.WriteLine($"Время выполнения - {stopwatch.Elapsed.TotalSeconds}");
     }
 }
